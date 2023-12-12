@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+  }
+  
+  .resume {
+    display: none;
+  }
+  .nk{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .gg{
+    border: none;
+      outline: none;
+      background: #fff;
+      color: #275360;
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 10px 18px;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: 0.15s ease;
+  }
